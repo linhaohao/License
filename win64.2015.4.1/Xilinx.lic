@@ -1,0 +1,29 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Wed Jun 27 13:35:01 UTC 2018.
+#
+# This is license NODELOCKED to HOSTID=ANY;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Wed Jun 27 13:35:01 UTC 2018
+INCREMENT SDK xilinxd 2019.06 permanent uncounted D25996163866 \
+VENDOR_STRING=talor,SDK,software,permanent,_211554302_0_0_201 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=27-Jun-2018 TS_OK
+#
+# This is a permanent license generated on Wed Jun 27 13:35:01 UTC 2018
+INCREMENT Analyzer xilinxd 2019.06 permanent uncounted 1570B1A2F830 \
+VENDOR_STRING=talor,Analyzer,software,permanent,_211554302_0_0_103 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=27-Jun-2018 TS_OK
+#
+# This is a permanent license generated on Wed Jun 27 13:35:01 UTC 2018
+INCREMENT HLS xilinxd 2019.06 permanent uncounted DE13A3FB417E \
+VENDOR_STRING=talor,HLS,software,permanent,_211554302_0_0_109 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=27-Jun-2018 TS_OK
+#
+# This is a permanent license generated on Wed Jun 27 13:35:01 UTC 2018
+INCREMENT V_WebPACK xilinxd 2019.06 permanent uncounted E2C11A635358 \
+VENDOR_STRING=talor,V_WebPACK,software,permanent,_211554302_0_0_709 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=27-Jun-2018 TS_OK
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
